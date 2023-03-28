@@ -22,7 +22,7 @@ public class Program {
                 System.out.println( "Mais de 8000!"        );
 		  
             }
-       
+       Systém.out.println("Ctd")
     }
 }
 	}
