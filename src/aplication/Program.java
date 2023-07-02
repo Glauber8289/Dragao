@@ -21,7 +21,7 @@ public class Program {
             } else {
                      System.out.println(  "Mais de 8000!"   );
 		 
-System.out.println(  "Mais de 8000!"   );
+
 		 
 
 
