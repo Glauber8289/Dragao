@@ -1,4 +1,4 @@
-package aplication;
+tpackage aplication;
 
 import java.util.Scanner;
 
@@ -17,7 +17,7 @@ public class Program {
 //TODO: Implemente a condição adequada para a impressão dos textos conforme o solicitado no desafio:
 
             if(   poderDeLuta <=8000    ){
-                System.out.println(  "Inseto!!!"      );
+                System.out.println(  "Inse"      );
             } else {
                      System.out.println(  "Mais de 8000!!!"   );
 		 
