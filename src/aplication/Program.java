@@ -17,7 +17,7 @@ public class Program {
 //TODO: Implemente a condição adequada para a impressão dos textos conforme o solicitado no desafio:
 
             if(   poderDeLuta <=8000    ){
-                System.out.println(  "Inse"      );
+                System.out.println(  "Inseto"      );
             } else {
                      System.out.println(  "Mais de 8000!!!"   );
 		 
