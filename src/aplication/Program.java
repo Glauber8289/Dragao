@@ -19,7 +19,7 @@ public class Program {
             if(   poderDeLuta <=8000    ){
                 System.out.println(  "Inseto"      );
             } else {
-                     System.out.println(  "Mais de 8000"   );
+                     System.out.println(  "Mais de 8000!!!"   );
 		 
 
 		 
